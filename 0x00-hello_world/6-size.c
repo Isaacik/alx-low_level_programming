@@ -1,7 +1,6 @@
 
 /* Program to print the size of data types*/
 #include <stdio.h>
-#include <conio.h>
 
 /**
  * main - entry point
