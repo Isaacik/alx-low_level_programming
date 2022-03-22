@@ -9,7 +9,8 @@
  */
 int main(void)
 {
-	printf("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+	char quote[60] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+	putchar(quote);
 	return (0);
 
 }
